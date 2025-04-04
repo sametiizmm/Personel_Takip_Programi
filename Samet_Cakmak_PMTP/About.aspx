@@ -53,7 +53,7 @@
     </div>
     <div class="content">
         <h4><strong>Hoş Geldiniz!</strong></h4>
-        <p>Personel Maaş Takip Programı (PMTP), işletmelerin insan kaynakları süreçlerini daha verimli, düzenli ve şeffaf bir şekilde yönetmesine yardımcı olmak amacıyla geliştirilmiş bir projedir.</p>
+        <p>İnsan Kaynakları Yönetim Sistemi (İKYS), işletmelerin insan kaynakları süreçlerini daha verimli, düzenli ve şeffaf bir şekilde yönetmesine yardımcı olmak amacıyla geliştirilmiş bir projedir.</p>
         <h4><strong>Amacımız</strong></h4>
         <p>Bu platform, personel yönetimi, maaş takibi, departman organizasyonu ve kullanıcı yetkilendirme gibi süreçleri kolaylaştırarak işletmelere dijital bir çözüm sunar. Hedefimiz, işletmelerin insan kaynakları yönetimi için ihtiyaç duyduğu tüm araçları tek bir çatı altında toplamak ve iş gücü verimliliğini artırmaktır.</p>
         <h4><strong>Sunduğumuz Hizmetler</strong></h4>
@@ -66,7 +66,7 @@
         <h4><strong>Teknolojik Altyapımız</strong></h4>
         <p>Bu platform, ASP.NET teknolojisi ile geliştirilmiştir ve Microsoft SQL Server kullanılarak güçlü bir veritabanı altyapısı oluşturulmuştur. Modern ve kullanıcı dostu arayüzü ile işletmenizin dijital dönüşüm yolculuğuna katkı sağlamayı amaçlıyoruz.</p>
         <h4><strong>Projenin Arkasındaki Ekip</strong></h4>
-        <p>PMTP, yazılım geliştirme ve veritabanı tasarımı alanında deneyim sahibi bir ekip tarafından tasarlandı. Projenin sahibi <strong>Samet Çakmak</strong>, Yönetim Bilişim Sistemleri alanında eğitim almakta ve işletmelere teknolojik çözümler sunma konusunda profesyonel çalışmalara imza atmaktadır.</p>
+        <p>İKYS, yazılım geliştirme ve veritabanı tasarımı alanında deneyim sahibi bir ekip tarafından tasarlandı. Projenin sahibi <strong>Samet Çakmak</strong>, Yönetim Bilişim Sistemleri alanında eğitim almakta ve işletmelere teknolojik çözümler sunma konusunda profesyonel çalışmalara imza atmaktadır.</p>
     </div>
 </asp:Content>
 

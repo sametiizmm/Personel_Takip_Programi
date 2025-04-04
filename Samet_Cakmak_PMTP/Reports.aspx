@@ -39,7 +39,7 @@
         }
     </style>
     <div class="header">
-        <h1><strong>Personel Maaş Takip Programı Raporlar</strong></h1>
+        <h1><strong>İnsan Kaynakları Yönetim Sistemi Raporlar</strong></h1>
     </div>
     <div class="button-container">
         <asp:Button ID="Button1" runat="server" CssClass="button" OnClientClick="target='_blank'" PostBackUrl="~/REP_Bölüme_Göre_Personel_Listesi.aspx" Text="Bölüme Göre Personel Listesi" />

@@ -7,7 +7,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title><%: Page.Title %> - Samet Çakmak PMTP</title>
+    <title><%: Page.Title %> - İnsan Kaynakları Yönetim Sistemi</title>
 
     <asp:PlaceHolder runat="server">
         <%: Scripts.Render("~/bundles/modernizr") %>
@@ -103,7 +103,7 @@
             </asp:ContentPlaceHolder>
             <hr />
             <footer>
-                <p>Samet Çakmak &copy; <%: DateTime.Now.Year %> - Personel Maaş Takip Programı</p>
+                <p>Samet Çakmak &copy; <%: DateTime.Now.Year %> - İnsan Kaynakları Yönetim Sistemi</p>
             </footer>
         </div>
     </form>

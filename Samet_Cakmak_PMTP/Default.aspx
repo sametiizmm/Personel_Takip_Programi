@@ -39,7 +39,7 @@
         }
     </style>
     <div class="header">
-        <h1><strong>Personel Maaş Takip Programı (PMTP)</strong></h1>
+        <h1><strong>İnsan Kaynakları Yönetim Sistemi (İKYS)</strong></h1>
     </div>
     <div class="content">
         <asp:Image ID="Image1" runat="server" ImageUrl="~/İmages/Adsız tasarım.jpg" CssClass="img-fluid" Width="1150px" Height="500px" />

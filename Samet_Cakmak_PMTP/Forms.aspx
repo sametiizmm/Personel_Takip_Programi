@@ -41,7 +41,7 @@
         }
     </style>
     <div class="header">
-        <h1><strong>Personel Maaş Takip Programı Formlar</strong></h1>
+        <h1><strong>İnsan Kaynakları Yönetim Sistemi Formlar</strong></h1>
     </div>
     <div class="button-container">
         <asp:Button ID="Button1" runat="server" CssClass="button" OnClientClick="target='_blank'" PostBackUrl="~/FRM_Personel_Veri_Giriş.aspx" Text="Personel Veri Giriş Formu" />
